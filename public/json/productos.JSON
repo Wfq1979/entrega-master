@@ -1,0 +1,89 @@
+[{
+        "id": 1,
+        "idCategoria":1,
+        "nombreCategoria": "Rubias",
+        "nombre": "Rubia",
+        "tamanio": "250ml",
+        "precio": 150,
+        "stock": 21,
+        "img": "rubia.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, repellendus quis ab voluptas minima excepturi!"
+    },
+    {
+        "id": 2,
+        "idCategoria":2,
+        "nombreCategoria": "Negras",
+        "nombre": "Negra",
+        "tamanio": "250ml",
+        "precio": 130,
+        "stock": 22,
+        "img": "negra.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, repellendus quis ab voluptas minima excepturi!"
+    },
+    {
+        "id": 3,
+        "idCategoria":3,
+        "nombreCategoria": "Rojas",
+        "nombre": "Roja",
+        "tamanio": "180ml",
+        "precio": 155,
+        "stock": 23,
+        "img": "roja.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, repellendus quis ab voluptas minima excepturi!"
+    },
+    {
+        "id": 4,
+        "idCategoria":1,
+        "nombreCategoria": "Rubias",
+        "nombre": "Honey",
+        "tamanio": "280ml",
+        "precio": 200,
+        "stock": 24,
+        "img": "honey.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, repellendus quis ab voluptas minima excepturi!"
+    },
+    {
+        "id": 5,
+        "idCategoria":1,
+        "nombreCategoria": "Rubias",
+        "nombre": "Ipa",
+        "tamanio": "250ml",
+        "precio": 200,
+        "stock": 25,
+        "img": "ipa.webp",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, repellendus quis ab voluptas minima excepturi!"
+    },
+    {
+        "id": 6,
+        "idCategoria":2,
+        "nombreCategoria": "Negras",
+        "nombre": "Honey Black",
+        "tamanio": "250ml",
+        "precio": 200,
+        "stock": 25,
+        "img": "negra2.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, repellendus quis ab voluptas minima excepturi!"
+    },
+    {
+        "id": 7,
+        "idCategoria":2,
+        "nombreCategoria": "Negras",
+        "nombre": "Black boost",
+        "tamanio": "250ml",
+        "precio": 200,
+        "stock": 25,
+        "img": "negra3.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, repellendus quis ab voluptas minima excepturi!"
+    },
+    {
+        "id": 8,
+        "idCategoria":3,
+        "nombreCategoria": "Rojas",
+        "nombre": "Honey Red",
+        "tamanio": "250ml",
+        "precio": 200,
+        "stock": 25,
+        "img": "roja1.jpg",
+        "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, repellendus quis ab voluptas minima excepturi!"
+    }
+]

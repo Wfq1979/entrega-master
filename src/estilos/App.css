@@ -1,0 +1,25 @@
+.infoDetalle {
+    font-weight: bold;
+    font-size: 1.7rem;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    font-size: 3rem;
+}
+
+.botonDetalle{
+    font-size: 1.5rem;
+}
+.botonDetalle:hover {
+	background-color: rgb(240, 80, 101) !important;
+    font-size: 1.9rem;
+    color: rgb(255, 218, 9) !important;
+}
+
+.verProductoBoton:hover {
+    background-color: rgb(240, 80, 101) !important;
+    
+    color: rgb(255, 218, 9) !important;
+}
+
